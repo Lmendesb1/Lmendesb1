@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Lucas Mendes👋</h1>
+<h1 align="center">Hi, I'm Lucas Mendes 👋</h1>
 
 <p align="center">
-  Eu ajudo pessoas a resolver problemas com tecnologia sem complicação!<br>
-  💻 Desenvolvedor Full-Stack | 🌐 Apaixonado por Web | 🚀 Sempre aprendendo
+  I help people solve problems with technology — without the headache!<br>
+  💻 Front-End Developer | 🌐 Web Enthusiast | 🚀 Always Learning
 </p>
 
 ---
@@ -16,16 +16,16 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 🔭 Mais de 15 anos de experiência em tecnologia
-- 🌱 Atualmente aprimorando conhecimentos em TypeScript, React e Firebase
-- 👨‍💻 Experiência com Node.js, SQL, MongoDB, HTML, CSS, e muito mais
-- 🌍 Baseado em Portugal
+- 🔭 Over 15 years of experience in technology
+- 🌱 Currently learning more about Node, Angular and Python
+- 👨‍💻 Experienced with HTML, CSS , JS, Python and more
+- 🌍 Based in Portugal
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🏆 Conquistas
+### 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lmendesb1&theme=darkhub&no-frame=true&margin-w=15&row=2&column=3" />
@@ -52,13 +52,13 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/lmendesb1">
+  <a href="[https://linkedin.com/in/lmendesb1](https://www.linkedin.com/in/lucas-mendesb)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@dominio.com">
+  <a href="mailto:lucasprata2010@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Lmendesb1">
@@ -68,4 +68,4 @@
 
 ---
 
-⭐️ **Obrigado por visitar meu perfil!**
+⭐️ **Thanks for visiting my profile!**
