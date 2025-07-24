@@ -18,7 +18,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Over 15 years of experience in technology
 - 🌱 Currently learning more about Node, Angular and Python
 - 👨‍💻 Experienced with HTML, CSS , JS, Python and more
 - 🌍 Based in Portugal
